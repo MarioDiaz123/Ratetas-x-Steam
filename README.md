@@ -1,6 +1,6 @@
 # Ratetas-x-Steam
 
-Antes de nada quiero dar los créditos a Steam006, usuario de [cs.rin.ru](https://cs.rin.ru/forum/), que fue el que desarrolló **GreenLuma 2020**. También al usuario de GitHub [BlueAmulet](https://github.com/BlueAmulet) por haber desarrollado **GreenLuma Manager** ahorrando y simplificando el programa. 
+Antes de nada quiero dar los créditos a Steam006, usuario de [cs.rin.ru](https://cs.rin.ru/forum/), que fue el que desarrolló **GreenLuma 2020**. También al usuario de GitHub [BlueAmulet](https://github.com/BlueAmulet) por haber desarrollado **GreenLuma Manager** ahorrando y simplificando el proceso. 
 
 
 # Archivos
@@ -62,5 +62,33 @@ marcas como favoritos el archivo, luego vas a tu drive y desde ahí seleccionas 
 
 # Juego descargado y GreenLuma operativo
 
+Una vez tengamos ya el .rar del juego descargado deberemos extraerlo y veremos que tenemos 2 carpetas:
+
+![image](https://user-images.githubusercontent.com/38992221/172473154-cd2966c5-0782-4a01-bf0d-2c8dee545d56.png)
+
+Lo único que hay que hacer es ir a la carpeta de nuestro Steam y mover ambas carpetas dentro. Así de simple. Habrá veces que metiendo juegos nuevos te diga que se necesitan reemplazar archivos a lo que yo peronalmente le doy que sí a todo. Esto es debido a que en muchos juegos aparte de este juego viene una carpeta dentro de _commons_ que lo que hace (y entiendo sin saber) es emular que una persona (perfil falso) nos está compartiendo su librería de Steam con el juego descargado en cuestión, y _GreenLuma_ es el que se encarga de hacer que ese juego Steam lo pase a detectar como de nuestra propiedad. Es básicamente un _Bypass_ del _Steam Shared Library_. 
+
+Ahora tendremos que abrir **GreenLumaManager** (a partir de ahora será nuestro principal modo de acceso a Steam por lo que recomiendo hacer un acceso directo en el escritorio o donde sea). Primero un pequeño repaso a la interfaz:
+
+![image](https://user-images.githubusercontent.com/38992221/172474584-664b0d9d-0006-4d46-89e4-78a5ce7c68c0.png)
+
+La parte importante es _search games_, que su nombre indica bien lo que es. Sirve para buscar los juegos que hemos descargado y metido en nuestra carpeta de Steam. Recalcar que si no te has descargado los archivos de un juego y lo buscas y lo añades a tu librería, una vez abras Steam verás que no existe ese juego. Es importante tener todos los archivos del juego (incluídos los _manifest_). A la derecha de esto nos aparece un apartado que dice _profiles_. Esto son los perfiles que tenemos (podemos añadir todos los que queramos). Este método solo permite unos 168 items por perfil, DL.c + Jueg. Si queremos más bastará con añadir un nuevo perfil. Recalcar que si iniciamos un perfil, no tendremos los items del otro.
+
+# Iniciar Steam
+
+Una vez hayamos añadido los items que queremos, solo queda darle al gran botón azul, que nos abrirá Steam directamente. 
+
+![image](https://user-images.githubusercontent.com/38992221/172476785-aa7f185f-c38e-4582-9735-8ff8402247d7.png)
+
+Con el ejemplo de Stellaris:
+
+![image](https://user-images.githubusercontent.com/38992221/172476962-daeeefdc-b0e6-44ee-b376-c77508b11e79.png)
+
+# Posibles ventajas a este sistema
+
+¿Y por qué no recurrir a pivigames o a elamigossite para descargarme los juegos? Bueno pues no tengo nada en contra que decir la verdad. Este sistema me parece el más safe de todos ya que los archivos descargados no son ningún crack ni nada por el estilo, son los archivos que aparecen en tu carpeta de Steam tras comprar un juego legit. Tú mismo con juegos comprados puedes ayudar a subir los archivos al foro para qu otra gente pueda descargarlos y jugar.
+
+
+# Olé
 
 

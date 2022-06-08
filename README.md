@@ -1,3 +1,3 @@
 # Instrucciones
 
-[Visitar esta páginas](https://rentry.co/RatetasxSteam)
+[Visitar esta página](https://rentry.co/RatetasxSteam)
